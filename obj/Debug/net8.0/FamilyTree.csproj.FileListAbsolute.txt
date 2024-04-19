@@ -1,0 +1,14 @@
+E:\Projects\DotNet\FamilyTree\bin\Debug\net8.0\FamilyTree.exe
+E:\Projects\DotNet\FamilyTree\bin\Debug\net8.0\FamilyTree.deps.json
+E:\Projects\DotNet\FamilyTree\bin\Debug\net8.0\FamilyTree.runtimeconfig.json
+E:\Projects\DotNet\FamilyTree\bin\Debug\net8.0\FamilyTree.dll
+E:\Projects\DotNet\FamilyTree\bin\Debug\net8.0\FamilyTree.pdb
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\FamilyTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\FamilyTree.AssemblyInfoInputs.cache
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\FamilyTree.AssemblyInfo.cs
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\FamilyTree.csproj.CoreCompileInputs.cache
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\FamilyTree.dll
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\refint\FamilyTree.dll
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\FamilyTree.pdb
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\FamilyTree.genruntimeconfig.cache
+E:\Projects\DotNet\FamilyTree\obj\Debug\net8.0\ref\FamilyTree.dll
